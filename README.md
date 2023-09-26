@@ -6,4 +6,4 @@ Gar nicht so einfach...
 
 Alle Bilder unter CC0 zur Weiterverwendung
 
-![](https://github.com/joerglohrer/consistentcharactermidjourney/blob/main/1.png)
+![](https://github.com/joerglohrer/consistentcharactermidjourney/blob/main/1.png?raw=true)
